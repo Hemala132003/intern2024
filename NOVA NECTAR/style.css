@@ -1,0 +1,119 @@
+body{
+    margin: 0px;
+    background-image: url(back.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#header{
+    background-color: rgb(3, 3, 3);
+    height: 90px;
+    color: white;
+    overflow: hidden;
+    
+}
+.logo{
+    color: white;
+    font-size: 40px;
+    font-weight: 900;
+    font-family: cursive;
+    margin-top: 15px;
+    margin-left: 60px;
+    cursor: pointer;
+}
+
+.menus{
+    position: absolute;
+    top: 20px;
+    left: 600px;
+    
+}
+.menu{
+   display: inline;
+   margin-right: 40px;
+   
+
+}
+.lname{
+    color:white;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: cursive;
+    text-decoration: none;
+    letter-spacing: 1px;
+}
+.lname:hover{
+    color: rgb(236, 117, 117);
+}
+.btn{
+    position: absolute; 
+    top: 30px;
+    right: 80px;
+    height: 40px;
+    width: 150px;
+    background:red;
+    color: black;
+    font-size: 25px;
+    font-weight: 800;
+    font-family: cursive;
+    border-radius: 15px;
+    cursor: pointer;
+}
+#banner{
+    color: white;
+    text-align: center;
+    margin-top: 250px;
+    font-family: cursive;
+}
+.home{
+    font-size: 80px;
+    
+}
+.detail{
+    font-size: 30px;
+    text-align: center;
+
+}
+.nbtn{
+    height: 40px;
+    width: 150px;
+    background:rgb(3, 126, 120);
+    color: black;
+    font-size: 25px;
+    font-weight: 800;
+    font-family: cursive;
+    border-radius: 15px;
+    cursor: pointer;
+
+}
+.form{
+    color: rgb(236, 182, 20);
+    font-size: 30px;
+    margin-top: 300px;
+    margin-left: 100px;
+}
+
+.frow{
+    margin-top: 80px;
+    margin-left: 200px;
+}
+.feild{
+    height: 30px;
+    width: 350px;
+    padding: 5px;
+    border-radius: 8px;
+    margin-left: 10px;
+}
+.srow{
+    margin-left: 200px;
+    margin-top: 20px;
+}
+.trow{
+    margin-left: 210px;
+    margin-top: 32px; 
+    
+}
+.msg{
+    width: 1110px;
+    height: 150px;
+    border-radius: 8px;
+}
